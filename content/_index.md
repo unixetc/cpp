@@ -3,22 +3,18 @@ title: 介绍
 type: docs
 ---
 
-# 中文索引页
+# C++喵星网
 
 {{< columns >}}
 ## 什么是C++
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+C++是一种被广泛使用的计算机程序设计语言。它是一种通用程序设计语言，支持多重编程范式，例如过程化程序设计、面向对象程序设计、泛型程序设计和函数式程序设计等。
 
 <--->
 
-## Suis quot vota
+## C++名字的由来
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+C++这个名字是Rick Mascitti于1983年中所建议的，并于1983年12月首次使用。更早以前，尚在研究阶段的发展中语言曾被称为“new C”，之后是“C with Classes”。在计算机科学中，C++仍被称为C语言的上层结构。它最后得名于C语言中的“++”运算符（其对变量的值进行递增）。而且在共同的命名约定中，使用“+”以表示增强的程序。斯特劳斯特鲁普说：“这个名字象征着源自于C语言变化的自然演进”。C+是一个和C/C++无关的早期编程语言。
 {{< /columns >}}
 
 
