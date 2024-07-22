@@ -6,7 +6,7 @@ type: docs
 # 中文索引页
 
 {{< columns >}}
-## Astris ipse furtiva
+## 什么是C++
 
 Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
 olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,

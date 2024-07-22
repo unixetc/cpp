@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL: https://cpp.cat/
-title: CPP
+title: C++喵星网
 theme: b
 
 # Book configuration
